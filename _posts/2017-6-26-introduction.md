@@ -8,6 +8,7 @@ title: 初投稿
 HEXOとはmarkdownで記載された静的なコンテンツを作成するNode.jsベースのワイヤーフレームの事です。
 参照 LIGさん
 [所要時間3分!? Github PagesとHEXOで爆速ブログ構築してみよう！](https://liginc.co.jp/web/programming/server/104594)
+
 [いまアツいJavaScript！ゼロから始めるNode.js入門〜5分で環境構築編〜](https://liginc.co.jp/web/programming/node-js/85318)
 
 
