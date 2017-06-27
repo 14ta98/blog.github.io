@@ -18,8 +18,10 @@ HEXOをローカルにインストールはできたが、github pageとの連�
 使い勝手としては、記事アップロード時のサイト反映に時間がかかる事以外は快適に使えております。Github製なので、これを機に黒い画面とも仲良くなろうかな。何はともあれ簡単に無料でサイトを構築することができました！
 
 参考サイト  
-[所要時間3分!? Github PagesとHEXOで爆速ブログ構築してみよう！](https://liginc.co.jp/web/programming/server/104594)       　　
-[いまアツいJavaScript！ゼロから始めるNode.js入門〜5分で環境構築編〜](https://liginc.co.jp/web/programming/node-js/85318)     
+[所要時間3分!? Github PagesとHEXOで爆速ブログ構築してみよう！](https://liginc.co.jp/web/programming/server/104594)  
+
+[いまアツいJavaScript！ゼロから始めるNode.js入門〜5分で環境構築編〜](https://liginc.co.jp/web/programming/node-js/85318)
+
 [クリック1発で、Github上にブログを無料で作成できる「Jekyll Now」が超絶便利！](（http://plus.appgiga.jp/masatolan/2015/01/13/55047/)  
 
 
