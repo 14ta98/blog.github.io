@@ -9,11 +9,12 @@ jimdo、ペライチ等のように広告も表示されず、またWordPressの
 
 Github Pageの構築（デザイン）に時間をかけると本末転倒のため、LiGさんの記事を基にHEXOで爆速構築をすることにした。
 
->HEXOとはmarkdownで記載された静的なコンテンツを作成するNode.jsベースのワイヤーフレームの事です。　
+"HEXOとはmarkdownで記載された静的なコンテンツを作成するNode.jsベースのワイヤーフレームの事です。"　
 
-・参考
-[所要時間3分!? Github PagesとHEXOで爆速ブログ構築してみよう！](https://liginc.co.jp/web/programming/server/104594)　　
-[いまアツいJavaScript！ゼロから始めるNode.js入門〜5分で環境構築編〜](https://liginc.co.jp/web/programming/node-js/85318)　　
+・参考  
+[所要時間3分!? Github PagesとHEXOで爆速ブログ構築してみよう！](https://liginc.co.jp/web/programming/server/104594)  　　
+[いまアツいJavaScript！ゼロから始めるNode.js入門〜5分で環境構築編〜](https://liginc.co.jp/web/programming/node-js/85318)  　　
+
 
 がしかし、HEXOをローカルにインストールはできたが、github pageとの連携の所で転けてしまった。時間がかかりそうなので、別案である「jekyll Now」テンプレートをGithub Pageに当て込んで、つくることにした。すると5分も立たないうちに技術系ネタを記録するブログが構築できた。
 [クリック1発で、Github上にブログを無料で作成できる「Jekyll Now」が超絶便利！](（http://plus.appgiga.jp/masatolan/2015/01/13/55047/)　　
