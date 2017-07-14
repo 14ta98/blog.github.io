@@ -1,0 +1,26 @@
+---
+layout: post
+title: 戻り値で関数から値を返す(return文)際のメモ
+---
+
+```index.js
+	// 円周率を求める処理
+		function menseki(r) {
+			return 3.14 * r * r;
+		}
+		// 円周を求める処理
+		function enshu(r) {
+			return 2 * 3.14 * r;
+		}
+
+		var r = 10;
+
+		document.write('<p>');
+		document.write('半径 = ' + r + '<br />');
+		document.write('円周 = ' + enshu(r) + '<br />');
+		document.write('面積 = ' + menseki(r) +'<br />');
+		document.write('</p>');
+```
+参考サイト  
+[戻り値で関数から値を返す(return文)](https://www.ajaxtower.jp/js/function/index4.html)  
+
